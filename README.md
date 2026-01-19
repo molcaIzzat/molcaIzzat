@@ -41,11 +41,11 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=pratamaizzat&theme=dark&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=molcaIzzat)](https://git.io/streak-stats)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratamaizzat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=molcaIzzat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Harsena's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratamaizzat&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harsena's GitHub stats](https://github-readme-stats.vercel.app/api?username=molcaIzzat&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
