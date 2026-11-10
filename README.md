@@ -1,4 +1,4 @@
-# Pratama Ilfat
+# Ilfat (Izzat) Pratama
 
 ### Enterprise / Solution Architect | Software Engineer | Technology Enthusiast
 
@@ -109,8 +109,6 @@ A few principles that guide my thinking:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=molcaIzzat&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=molcaIzzat&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=molcaIzzat&layout=compact&hide_title=true&langs_count=7&hide_values=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=molcaIzzat&layout=compact&hide_title=true&langs_count=7&hide_values=true&theme=tokyonight)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=molcaIzzat&layout=compact&hide_border=true&theme=github_dark)](https://github.com/molcaIzzat)
 
 ---
 
